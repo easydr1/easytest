@@ -1,0 +1,2 @@
+# easytest
+learn github
